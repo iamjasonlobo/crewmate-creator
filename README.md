@@ -1,15 +1,9 @@
-# Web Development Project 7 - *Crewmate Creator*
+# *Crewmate Creator*
+## Description
+Among Us themed, React based CRUD application connected to a database
 
-Submitted by: **Jason Lobo**
-
-This web app: **Among Us themed, react based CRUD application connected to a database**
-
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
+## Features
+The following functionality is implemented:
 - [x] **A create form allows users to add new cremates**
 - [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
 - [x] **The site displays a summary page of all the user's added crewmates**
@@ -18,17 +12,9 @@ The following **required** functionality is completed:
 - [x] **Each crewmate has a direct, unique link to an info page about them**
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/raIB60i.gif' title='Video Walkthrough' width='500px' alt='Crewmate Creator Video Walkthrough' />
-
-GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) for Windows
-
-## Notes
-
-Challenges were in creating UUID
+https://github.com/iamjasonlobo/crewmate-creator/assets/105331420/9d34421b-8130-4096-894b-7345c38157e5
 
 ## License
 
